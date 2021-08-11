@@ -8,6 +8,8 @@
 	box-sizing: content-box;
 	overflow: hidden;
 	border-radius: 20px;
+	margin-left: 25%;
+	margin-top: 15%;
 }
 
 .image {
